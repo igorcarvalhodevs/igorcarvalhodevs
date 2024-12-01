@@ -36,6 +36,18 @@
 
 ###
 
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left"> 
+  <a href="https://instagram.com/igorcarvalho_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igorcarvalho.devs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-de-carvalho-leandro-64287a234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -52,16 +64,6 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
 
-###
-
-<div align="left"> 
-  <a href="https://instagram.com/igorcarvalho_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igorcarvalho.devs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-de-carvalho-leandro-64287a234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-###
   
  
