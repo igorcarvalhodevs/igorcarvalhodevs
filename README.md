@@ -18,7 +18,7 @@ Busco minha primeira oportunidade como Desenvolvedor Backend Java Júnior, com i
 
 ---
 
-### 📌 Em breve neste GitHub
+### 📌 Próximos projetos
 - Projeto API REST com Spring Boot e MySQL  
 - Projeto com Docker e boas práticas de arquitetura  
 - Projetos de estudo focados em Backend Java  
